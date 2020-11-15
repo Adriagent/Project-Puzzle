@@ -6,3 +6,11 @@ $ git pull
 - Segmentar piezas
 - JigsawPuzzle
 - Hola
+
+
+
+
+# Para subir los cambios:
+$ git add .
+$ git commit -m "Nombre de la versión"
+$ gi push
