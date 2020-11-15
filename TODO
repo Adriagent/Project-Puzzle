@@ -1,3 +1,8 @@
+$ git clone https://github.com/Adriagent/Project-Puzzle.git
+$ git pull
+
+
+
 - Segmentar piezas
 - JigsawPuzzle
 - Hola
