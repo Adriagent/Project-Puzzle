@@ -10,6 +10,6 @@ int main(){
     imshow("Imagen de Lena", pene);
 
     waitKey(0);
-
+jjjj
     return 0;
 }
