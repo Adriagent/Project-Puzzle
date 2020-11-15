@@ -4,7 +4,7 @@
 using namespace std;
 using namespace cv;
 int main(){
-    // + Doctor
+    // + Doctor ICKKCK
     cout<<"Lena esta to buena\n";
     Mat pene=imread("lena.jpg");
     imshow("Imagen de Lena", pene);
