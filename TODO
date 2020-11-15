@@ -1,7 +1,14 @@
-$ git clone https://github.com/Adriagent/Project-Puzzle.git
-$ git pull
+# Para descargar repositorio y actualizarlo:
+    $ git clone https://github.com/Adriagent/Project-Puzzle.git
+    $ git pull
+
+# Para subir los cambios:
+    $ git add .
+    $ git commit -m "Nombre de la versión"
+    $ gi push
 
 
+# TO DO:
 
 - Segmentar piezas
 - JigsawPuzzle
@@ -10,7 +17,3 @@ $ git pull
 
 
 
-# Para subir los cambios:
-$ git add .
-$ git commit -m "Nombre de la versión"
-$ gi push
